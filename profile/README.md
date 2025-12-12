@@ -1,4 +1,4 @@
-![laravilt](https://raw.githubusercontent.com/laravilt/laravilt/master/arts/screenshot.jpg)
+![laravilt](https://raw.githubusercontent.com/laravilt/laravilt/master/arts/hero.jpg)
 
 # Laravilt
 
