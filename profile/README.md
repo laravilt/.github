@@ -1,4 +1,4 @@
-![laravilt](https://raw.githubusercontent.com/laravilt/laravilt/master/arts/hero.jpg)
+![Laravilt](https://raw.githubusercontent.com/laravilt/laravilt/master/arts/hero.jpg?v=brand-2026)
 
 # Laravilt
 
