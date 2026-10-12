@@ -11,6 +11,10 @@ A modern Laravel Admin Panel built with Vue 3, Inertia.js, and AI capabilities. 
 [![PHP Code Styling](https://github.com/laravilt/laravilt/actions/workflows/fix-php-code-styling.yml/badge.svg)](https://github.com/laravilt/laravilt/actions/workflows/fix-php-code-styling.yml)
 [![Tests](https://github.com/laravilt/laravilt/actions/workflows/tests.yml/badge.svg)](https://github.com/laravilt/laravilt/actions/workflows/tests.yml)
 
+- **Website:** [laravilt.com](https://laravilt.com)
+- **Docs:** [laravilt.com/en/docs](https://laravilt.com/en/docs)
+- **Live demo:** [demo.laravilt.com](https://demo.laravilt.com)
+
 ## Features
 
 - **Modern Stack**: Laravel 12, Vue 3, Inertia.js v2, Tailwind CSS v4
@@ -238,8 +242,13 @@ composer format
 
 The MIT License (MIT). See [License File](LICENSE.md) for more information.
 
+## More from the same maintainer
+
+- [TomatoPHP](https://tomatophp.com): open-source FilamentPHP plugins for Laravel
+- [ToGO](https://to-go.dev): an API-first Go + React full-stack framework
+
 ## Credits
 
-- Built by [Fady Mondy](https://github.com/3x1io)
+- Built by [Fady Mondy](https://fadymondy.com)
 - Inspired by [Filament PHP](https://filamentphp.com)
 - UI components from [shadcn/vue](https://www.shadcn-vue.com)
